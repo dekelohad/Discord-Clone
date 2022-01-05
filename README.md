@@ -5,10 +5,10 @@ Discord Clone using React and Firebase
 
 
 App Features:<br>
-  Login<br>
-  LogOut<br>
-  Add channels<br>
-  Realtime Chat<br>
+  *Login<br>
+  *LogOut<br>
+  Adding channels<br>
+  *Realtime Chat<br>
 
 
  
