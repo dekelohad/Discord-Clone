@@ -11,5 +11,4 @@ App Features:<br>
   *Realtime Chat<br>
 
 
- 
-Technologies used: React,Firebase.
+  
